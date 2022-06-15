@@ -1,4 +1,4 @@
-const nav = document.querySelector('.nav');
+/*const nav = document.querySelector('.nav');
 let lastScrollY = window.scrollY;
 
 window.addEventListener("scroll", () => {
@@ -10,4 +10,4 @@ window.addEventListener("scroll", () => {
     }
 
     lastScrollY = window.scrollY;
-});
+});*/
